@@ -1,0 +1,3 @@
+#! /bin/bash
+
+gnome-terminal --geometry=120x30 -- ./ejLecturaMapa Mapa1.txt $1
